@@ -1,0 +1,36 @@
+{
+glyphname = quotedbl;
+kernLeft = degree;
+kernRight = degree;
+layers = (
+{
+layerId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+shapes = (
+{
+ref = quotesingle;
+},
+{
+pos = (100,0);
+ref = quotesingle;
+}
+);
+width = 248;
+},
+{
+layerId = "DF4F0C8E-2CF9-4068-955F-A12E64B8206D";
+shapes = (
+{
+ref = quotesingle;
+},
+{
+pos = (112,0);
+ref = quotesingle;
+}
+);
+width = 268;
+}
+);
+metricLeft = quotesingle;
+metricRight = quotesingle;
+unicode = 34;
+}

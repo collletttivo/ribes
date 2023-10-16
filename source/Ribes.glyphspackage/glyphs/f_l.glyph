@@ -1,0 +1,35 @@
+{
+glyphname = f_l;
+kernLeft = Hbar;
+kernRight = H;
+layers = (
+{
+layerId = "DF4F0C8E-2CF9-4068-955F-A12E64B8206D";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (308,0);
+ref = l;
+}
+);
+width = 496;
+},
+{
+layerId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (320,0);
+ref = l;
+}
+);
+width = 484;
+}
+);
+metricLeft = f;
+metricRight = l;
+}

@@ -1,0 +1,66 @@
+{
+glyphname = greater;
+layers = (
+{
+layerId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+shapes = (
+{
+pos = (564,0);
+ref = less;
+scale = (-1,1);
+}
+);
+width = 564;
+},
+{
+associatedMasterId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(101,166,l),
+(461,314,l),
+(100,447,l),
+(100,491,l),
+(563,320,l),
+(563,230,l),
+(101,30,l)
+);
+}
+);
+};
+layerId = "78664F7C-8FE8-4AB8-AC5B-D4761465C000";
+name = "Jan 6 19, 21:49";
+shapes = (
+{
+closed = 1;
+nodes = (
+(101,166,l),
+(461,314,l),
+(100,447,l),
+(100,491,l),
+(563,320,l),
+(563,230,l),
+(101,30,l)
+);
+}
+);
+width = 655;
+},
+{
+layerId = "DF4F0C8E-2CF9-4068-955F-A12E64B8206D";
+shapes = (
+{
+pos = (564,0);
+ref = less;
+scale = (-1,1);
+}
+);
+width = 564;
+}
+);
+metricLeft = "=|less";
+metricRight = "=|less";
+unicode = 62;
+}

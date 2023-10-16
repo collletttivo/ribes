@@ -1,0 +1,67 @@
+{
+export = 0;
+glyphname = hungarumlautcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (200,520);
+}
+);
+layerId = "DF4F0C8E-2CF9-4068-955F-A12E64B8206D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,708,l),
+(224,740,l),
+(72,616,l),
+(88,596,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(376,684,l),
+(356,724,l),
+(190,628,l),
+(202,604,l)
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (200,520);
+}
+);
+layerId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(248,712,l),
+(220,746,l),
+(74,616,l),
+(92,594,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(378,684,l),
+(356,726,l),
+(192,628,l),
+(206,602,l)
+);
+}
+);
+width = 400;
+}
+);
+unicode = 779;
+}

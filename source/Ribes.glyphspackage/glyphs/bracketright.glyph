@@ -1,0 +1,32 @@
+{
+glyphname = bracketright;
+kernLeft = braceright;
+layers = (
+{
+layerId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+shapes = (
+{
+pos = (332,0);
+ref = bracketleft;
+scale = (-1,1);
+}
+);
+width = 332;
+},
+{
+layerId = "DF4F0C8E-2CF9-4068-955F-A12E64B8206D";
+shapes = (
+{
+pos = (356,0);
+ref = bracketleft;
+scale = (-1,1);
+}
+);
+width = 356;
+}
+);
+metricLeft = "=parenleft+6";
+metricRight = l;
+note = "spazio interno";
+unicode = 93;
+}

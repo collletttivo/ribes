@@ -1,0 +1,41 @@
+{
+export = 0;
+glyphname = commaturnedabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (200,520);
+}
+);
+layerId = "DF4F0C8E-2CF9-4068-955F-A12E64B8206D";
+shapes = (
+{
+angle = 180;
+pos = (400,545);
+ref = commaaccentcomb;
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (200,520);
+}
+);
+layerId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+shapes = (
+{
+angle = 180;
+pos = (400,545);
+ref = commaaccentcomb;
+}
+);
+width = 400;
+}
+);
+unicode = 786;
+}

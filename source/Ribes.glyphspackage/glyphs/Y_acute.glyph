@@ -1,0 +1,79 @@
+{
+glyphname = Yacute;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (132,140);
+ref = acutecomb.case;
+}
+);
+width = 596;
+},
+{
+associatedMasterId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+layerId = "3890A59A-16E9-423D-93DD-E2858455551A";
+name = "Dec 1 17, 00:15";
+shapes = (
+{
+closed = 1;
+nodes = (
+(372,386,l),
+(307,248,l),
+(8,706,l),
+(168,706,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(573,710,l),
+(345,248,l),
+(307,248,l),
+(304,254,l),
+(533,710,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(345,248,l),
+(345,0,l),
+(307,0,l),
+(307,248,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(505,906,l),
+(453,906,l),
+(293,750,l),
+(329,750,l)
+);
+}
+);
+width = 581;
+},
+{
+layerId = "DF4F0C8E-2CF9-4068-955F-A12E64B8206D";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (88,140);
+ref = acutecomb.case;
+}
+);
+width = 552;
+}
+);
+unicode = 221;
+}

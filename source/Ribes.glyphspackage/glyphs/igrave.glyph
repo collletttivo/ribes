@@ -1,0 +1,45 @@
+{
+glyphname = igrave;
+kernLeft = idieresis;
+kernRight = i;
+layers = (
+{
+layerId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(164,620,l),
+(18,742,l),
+(-8,704,l),
+(148,598,l)
+);
+},
+{
+pos = (8,0);
+ref = idotless;
+}
+);
+width = 156;
+},
+{
+layerId = "DF4F0C8E-2CF9-4068-955F-A12E64B8206D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(176,622,l),
+(28,742,l),
+(0,700,l),
+(160,598,l)
+);
+},
+{
+ref = idotless;
+}
+);
+width = 192;
+}
+);
+unicode = 236;
+}

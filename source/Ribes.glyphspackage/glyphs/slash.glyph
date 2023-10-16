@@ -1,0 +1,54 @@
+{
+glyphname = slash;
+layers = (
+{
+layerId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(52,-120,l),
+(320,780,l),
+(276,780,l),
+(8,-120,l)
+);
+}
+);
+width = 328;
+},
+{
+associatedMasterId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+layerId = "1CE870E6-3D29-462A-82C4-5F231B226F7B";
+name = "Nov 25 17, 11:54";
+shapes = (
+{
+closed = 1;
+nodes = (
+(42,0,l),
+(80,0,l),
+(344,706,l),
+(306,706,l)
+);
+}
+);
+width = 348;
+},
+{
+layerId = "DF4F0C8E-2CF9-4068-955F-A12E64B8206D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(48,-120,l),
+(318,780,l),
+(280,780,l),
+(10,-120,l)
+);
+}
+);
+width = 328;
+}
+);
+metricRight = "=|";
+unicode = 47;
+}

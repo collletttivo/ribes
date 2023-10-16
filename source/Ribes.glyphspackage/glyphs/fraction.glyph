@@ -1,0 +1,37 @@
+{
+glyphname = fraction;
+layers = (
+{
+layerId = "DF4F0C8E-2CF9-4068-955F-A12E64B8206D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(54,0,l),
+(542,700,l),
+(498,700,l),
+(10,0,l)
+);
+}
+);
+width = 552;
+},
+{
+layerId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,0,l),
+(554,700,l),
+(504,700,l),
+(10,0,l)
+);
+}
+);
+width = 564;
+}
+);
+metricRight = "=|";
+unicode = 8260;
+}

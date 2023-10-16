@@ -1,0 +1,13 @@
+{
+glyphname = .notdef;
+layers = (
+{
+layerId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+width = 600;
+},
+{
+layerId = "DF4F0C8E-2CF9-4068-955F-A12E64B8206D";
+width = 600;
+}
+);
+}

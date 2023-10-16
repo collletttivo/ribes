@@ -1,0 +1,50 @@
+{
+glyphname = periodcentered;
+kernLeft = bullet;
+kernRight = bullet;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(111,207,o),
+(132,228,o),
+(132,256,cs),
+(132,284,o),
+(111,305,o),
+(84,305,cs),
+(57,305,o),
+(36,284,o),
+(36,256,cs),
+(36,228,o),
+(57,207,o),
+(84,207,cs)
+);
+}
+);
+};
+layerId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+shapes = (
+{
+pos = (40,208);
+ref = period;
+}
+);
+width = 308;
+},
+{
+layerId = "DF4F0C8E-2CF9-4068-955F-A12E64B8206D";
+shapes = (
+{
+pos = (42,208);
+ref = period;
+}
+);
+width = 300;
+}
+);
+metricRight = "=|";
+unicode = 183;
+}

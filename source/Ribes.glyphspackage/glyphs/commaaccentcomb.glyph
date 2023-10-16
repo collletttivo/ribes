@@ -1,0 +1,49 @@
+{
+export = 0;
+glyphname = commaaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (200,0);
+}
+);
+layerId = "DF4F0C8E-2CF9-4068-955F-A12E64B8206D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(224,-42,l),
+(184,-36,l),
+(154,-210,l),
+(182,-216,l)
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (200,0);
+}
+);
+layerId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(224,-44,l),
+(182,-36,l),
+(152,-208,l),
+(180,-214,l)
+);
+}
+);
+width = 400;
+}
+);
+unicode = 806;
+}

@@ -1,0 +1,44 @@
+{
+glyphname = divide;
+kernLeft = hyphen;
+kernRight = hyphen;
+layers = (
+{
+layerId = "DF4F0C8E-2CF9-4068-955F-A12E64B8206D";
+shapes = (
+{
+ref = minus;
+},
+{
+pos = (174,424);
+ref = period;
+},
+{
+pos = (174,40);
+ref = period;
+}
+);
+width = 564;
+},
+{
+layerId = "73C3FB79-0E24-4863-9919-819B2F26AD09";
+shapes = (
+{
+ref = minus;
+},
+{
+pos = (168,400);
+ref = period;
+},
+{
+pos = (168,36);
+ref = period;
+}
+);
+width = 564;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+unicode = 247;
+}
