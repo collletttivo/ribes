@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degree" format="2">
+  <advance width="416"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="208" y="324" type="curve" smooth="yes"/>
+      <point x="311" y="324"/>
+      <point x="384" y="401"/>
+      <point x="384" y="511" type="curve" smooth="yes"/>
+      <point x="384" y="624"/>
+      <point x="311" y="704"/>
+      <point x="208" y="704" type="curve" smooth="yes"/>
+      <point x="105" y="704"/>
+      <point x="32" y="624"/>
+      <point x="32" y="511" type="curve" smooth="yes"/>
+      <point x="32" y="401"/>
+      <point x="105" y="324"/>
+    </contour>
+    <contour>
+      <point x="208" y="372" type="curve" smooth="yes"/>
+      <point x="120" y="372"/>
+      <point x="64" y="427"/>
+      <point x="64" y="513" type="curve" smooth="yes"/>
+      <point x="64" y="599"/>
+      <point x="120" y="654"/>
+      <point x="208" y="654" type="curve" smooth="yes"/>
+      <point x="296" y="654"/>
+      <point x="352" y="599"/>
+      <point x="352" y="513" type="curve" smooth="yes"/>
+      <point x="352" y="427"/>
+      <point x="296" y="372"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

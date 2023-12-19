@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft" format="2">
+  <advance width="330"/>
+  <unicode hex="005B"/>
+  <note>
+spazio interno
+</note>
+  <outline>
+    <contour>
+      <point x="76" y="-200" type="line"/>
+      <point x="302" y="-200" type="line"/>
+      <point x="302" y="-156" type="line"/>
+      <point x="112" y="-156" type="line"/>
+      <point x="112" y="684" type="line"/>
+      <point x="302" y="684" type="line"/>
+      <point x="302" y="730" type="line"/>
+      <point x="76" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=parenleft+6</string>
+    </dict>
+  </lib>
+</glyph>

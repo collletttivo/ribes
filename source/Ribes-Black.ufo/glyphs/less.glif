@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less" format="2">
+  <advance width="564"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="504" y="60" type="line"/>
+      <point x="504" y="136" type="line"/>
+      <point x="88" y="275" type="line"/>
+      <point x="88" y="287" type="line"/>
+      <point x="504" y="432" type="line"/>
+      <point x="504" y="508" type="line"/>
+      <point x="52" y="326" type="line"/>
+      <point x="52" y="238" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>hyphen</string>
+    </dict>
+  </lib>
+</glyph>

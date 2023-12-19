@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onehalf" format="2">
+  <advance width="648"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <component base="fraction" xOffset="28" identifier="C0126159"/>
+    <component base="onesuperior" xOffset="20" identifier="518A456B"/>
+    <component base="twosuperior" xOffset="340" yOffset="-332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>518A456B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C0126159</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

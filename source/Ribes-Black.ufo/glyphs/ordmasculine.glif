@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="412"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="206" y="324" type="curve" smooth="yes"/>
+      <point x="312" y="324"/>
+      <point x="380" y="397"/>
+      <point x="380" y="511" type="curve" smooth="yes"/>
+      <point x="380" y="628"/>
+      <point x="312" y="704"/>
+      <point x="206" y="704" type="curve" smooth="yes"/>
+      <point x="100" y="704"/>
+      <point x="32" y="628"/>
+      <point x="32" y="511" type="curve" smooth="yes"/>
+      <point x="32" y="397"/>
+      <point x="100" y="324"/>
+    </contour>
+    <contour>
+      <point x="206" y="436" type="curve" smooth="yes"/>
+      <point x="116" y="436"/>
+      <point x="64" y="464"/>
+      <point x="64" y="513" type="curve" smooth="yes"/>
+      <point x="64" y="562"/>
+      <point x="116" y="590"/>
+      <point x="206" y="590" type="curve" smooth="yes"/>
+      <point x="296" y="590"/>
+      <point x="348" y="562"/>
+      <point x="348" y="513" type="curve" smooth="yes"/>
+      <point x="348" y="464"/>
+      <point x="296" y="436"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

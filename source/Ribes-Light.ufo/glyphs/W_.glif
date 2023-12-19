@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="908"/>
+  <unicode hex="0057"/>
+  <note>
+troppo nera
+</note>
+  <outline>
+    <contour>
+      <point x="208" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="442" y="636" type="line"/>
+      <point x="454" y="636" type="line"/>
+      <point x="636" y="0" type="line"/>
+      <point x="698" y="0" type="line"/>
+      <point x="900" y="700" type="line"/>
+      <point x="858" y="700" type="line"/>
+      <point x="684" y="72" type="line"/>
+      <point x="672" y="72" type="line"/>
+      <point x="494" y="700" type="line"/>
+      <point x="426" y="700" type="line"/>
+      <point x="256" y="72" type="line"/>
+      <point x="244" y="72" type="line"/>
+      <point x="70" y="700" type="line"/>
+      <point x="6" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=V+2</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=V+2</string>
+    </dict>
+  </lib>
+</glyph>

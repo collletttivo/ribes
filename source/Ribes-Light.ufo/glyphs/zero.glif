@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero" format="2">
+  <advance width="648"/>
+  <unicode hex="0030"/>
+  <outline>
+    <contour>
+      <point x="324" y="-8" type="curve" smooth="yes"/>
+      <point x="479" y="-8"/>
+      <point x="588" y="140"/>
+      <point x="588" y="350" type="curve" smooth="yes"/>
+      <point x="588" y="560"/>
+      <point x="479" y="708"/>
+      <point x="324" y="708" type="curve" smooth="yes"/>
+      <point x="169" y="708"/>
+      <point x="60" y="560"/>
+      <point x="60" y="350" type="curve" smooth="yes"/>
+      <point x="60" y="140"/>
+      <point x="169" y="-8"/>
+    </contour>
+    <contour>
+      <point x="324" y="56" type="curve" smooth="yes"/>
+      <point x="185" y="56"/>
+      <point x="96" y="171"/>
+      <point x="96" y="349" type="curve" smooth="yes"/>
+      <point x="96" y="527"/>
+      <point x="185" y="642"/>
+      <point x="324" y="642" type="curve" smooth="yes"/>
+      <point x="463" y="642"/>
+      <point x="552" y="527"/>
+      <point x="552" y="349" type="curve" smooth="yes"/>
+      <point x="552" y="171"/>
+      <point x="463" y="56"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

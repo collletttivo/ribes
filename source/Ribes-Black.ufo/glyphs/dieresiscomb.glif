@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
+  <advance width="400"/>
+  <unicode hex="0308"/>
+  <anchor x="200" y="520" name="_top"/>
+  <outline>
+    <contour>
+      <point x="124" y="622" type="curve" smooth="yes"/>
+      <point x="154" y="622"/>
+      <point x="176" y="643"/>
+      <point x="176" y="672" type="curve" smooth="yes"/>
+      <point x="176" y="701"/>
+      <point x="154" y="722"/>
+      <point x="124" y="722" type="curve" smooth="yes"/>
+      <point x="94" y="722"/>
+      <point x="72" y="701"/>
+      <point x="72" y="672" type="curve" smooth="yes"/>
+      <point x="72" y="643"/>
+      <point x="94" y="622"/>
+    </contour>
+    <contour>
+      <point x="276" y="622" type="curve" smooth="yes"/>
+      <point x="306" y="622"/>
+      <point x="328" y="643"/>
+      <point x="328" y="672" type="curve" smooth="yes"/>
+      <point x="328" y="701"/>
+      <point x="306" y="722"/>
+      <point x="276" y="722" type="curve" smooth="yes"/>
+      <point x="246" y="722"/>
+      <point x="224" y="701"/>
+      <point x="224" y="672" type="curve" smooth="yes"/>
+      <point x="224" y="643"/>
+      <point x="246" y="622"/>
+    </contour>
+  </outline>
+</glyph>

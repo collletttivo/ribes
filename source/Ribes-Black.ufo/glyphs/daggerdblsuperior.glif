@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdblsuperior" format="2">
+  <advance width="304"/>
+  <outline>
+    <contour>
+      <point x="131" y="332" type="line"/>
+      <point x="173" y="332" type="line"/>
+      <point x="169" y="412" type="line"/>
+      <point x="266" y="412" type="line"/>
+      <point x="266" y="498" type="line"/>
+      <point x="171" y="498" type="line"/>
+      <point x="171" y="524" type="line"/>
+      <point x="268" y="524" type="line"/>
+      <point x="268" y="612" type="line"/>
+      <point x="169" y="612" type="line"/>
+      <point x="173" y="700" type="line"/>
+      <point x="131" y="700" type="line"/>
+      <point x="135" y="612" type="line"/>
+      <point x="36" y="612" type="line"/>
+      <point x="36" y="524" type="line"/>
+      <point x="133" y="524" type="line"/>
+      <point x="133" y="498" type="line"/>
+      <point x="38" y="498" type="line"/>
+      <point x="38" y="412" type="line"/>
+      <point x="135" y="412" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=daggersuperior+4</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=daggersuperior+4</string>
+    </dict>
+  </lib>
+</glyph>

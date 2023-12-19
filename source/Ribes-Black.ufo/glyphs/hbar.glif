@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="544"/>
+  <unicode hex="0127"/>
+  <outline>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="262" type="line"/>
+      <point x="126" y="304"/>
+      <point x="189" y="328"/>
+      <point x="284" y="328" type="curve" smooth="yes"/>
+      <point x="390" y="328"/>
+      <point x="452" y="298"/>
+      <point x="452" y="246" type="curve" smooth="yes"/>
+      <point x="452" y="0" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="496" y="292" type="line" smooth="yes"/>
+      <point x="496" y="412"/>
+      <point x="420" y="492"/>
+      <point x="300" y="492" type="curve" smooth="yes"/>
+      <point x="200" y="492"/>
+      <point x="124" y="436"/>
+      <point x="112" y="340" type="curve"/>
+      <point x="100" y="340" type="line"/>
+      <point x="120" y="750" type="line"/>
+      <point x="68" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="12" y="554" type="line"/>
+      <point x="336" y="554" type="line"/>
+      <point x="336" y="714" type="line"/>
+      <point x="12" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Hbar</string>
+    </dict>
+  </lib>
+</glyph>
