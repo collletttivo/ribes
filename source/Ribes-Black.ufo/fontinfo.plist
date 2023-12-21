@@ -6,6 +6,8 @@
     <integer>750</integer>
     <key>capHeight</key>
     <integer>700</integer>
+    <key>copyright</key>
+    <string>© 2023, Collletttivo &amp; Luigi Gorlero</string>
     <key>descender</key>
     <integer>-200</integer>
     <key>familyName</key>

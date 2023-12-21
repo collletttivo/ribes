@@ -3,8 +3,8 @@
   <advance width="656"/>
   <unicode hex="00BE"/>
   <outline>
-    <component base="fraction" xOffset="92" identifier="AE7EF622"/>
-    <component base="threesuperior" xOffset="12" identifier="744E6673"/>
+    <component base="fraction" xOffset="92" identifier="334D5C78"/>
+    <component base="threesuperior" xOffset="12" identifier="E813269A"/>
     <component base="foursuperior" xOffset="354" yOffset="-332"/>
   </outline>
   <lib>
@@ -13,12 +13,12 @@
       <string>onequarter</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>744E6673</key>
+        <key>334D5C78</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>AE7EF622</key>
+        <key>E813269A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

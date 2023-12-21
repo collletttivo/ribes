@@ -3,20 +3,20 @@
   <advance width="648"/>
   <unicode hex="00BD"/>
   <outline>
-    <component base="fraction" xOffset="28" identifier="C0126159"/>
-    <component base="onesuperior" xOffset="20" identifier="518A456B"/>
+    <component base="fraction" xOffset="28" identifier="96105B3E"/>
+    <component base="onesuperior" xOffset="20" identifier="188F531C"/>
     <component base="twosuperior" xOffset="340" yOffset="-332"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>518A456B</key>
+        <key>188F531C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C0126159</key>
+        <key>96105B3E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -1,5 +1,5 @@
 {
-.appVersion = "3221";
+.appVersion = "3217";
 .formatVersion = 3;
 axes = (
 {
@@ -2133,6 +2133,15 @@ value = "http://scripts.sil.org/OFL";
 {
 key = vendorID;
 value = CLT;
+},
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "© 2023, Collletttivo & Luigi Gorlero";
+}
+);
 }
 );
 unitsPerEm = 1000;
